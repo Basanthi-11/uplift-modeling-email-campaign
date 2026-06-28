@@ -42,5 +42,7 @@ With email → 15.4% visit rate
 Emailing these customers actively destroys conversion. Standard response models would happily target them — because they look like high-value customers. Uplift modeling identifies and protects them.
 
 ---
+![Summary Dashboard](images/summary_dashboard.png)
+![Qini Curve](images/section3_qini_curve.png)
 
 ## Project Structure
